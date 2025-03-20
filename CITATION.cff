@@ -12,12 +12,11 @@ authors:
     family-names: Wang
     email: wangchangyan1992@gmail.com
     affiliation: Tsinghua University
-identifiers:
-  - type: doi
-    value: 10.48550/arXiv.2407.14854
 repository-code: 'https://github.com/wangchangyan1992/GP-GE-Rydberg'
 abstract: >-
   The code and data for calculating the geometry phase and
   geometric engtanglement and extracting the critical points
   and critical exponents for Rydberg atom chain.
+license: Apache-2.0
+commit: 1.0.0
 
